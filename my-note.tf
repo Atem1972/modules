@@ -1,0 +1,1 @@
+# module is a way of arrange our code by declear a variable that we can use it to recall our code or block in terraform . than us keep writing one an same code when ever we need it
